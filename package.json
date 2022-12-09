@@ -10,7 +10,7 @@
     "@material-ui/styles": "^3.0.0-alpha.10",
     "antd-mobile": "^2.2.13",
     "axios": "^0.18.0",
-    "qs": "^6.7.0",
+    "qs": "^6.7.3",
     "react": "^16.8.6",
     "react-amap": "^1.2.8",
     "react-cookies": "^0.1.1",
